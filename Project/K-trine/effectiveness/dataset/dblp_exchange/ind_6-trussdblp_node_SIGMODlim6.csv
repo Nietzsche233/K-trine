@@ -1,0 +1,144 @@
+ID, Label, Cnt, Name
+68,2,49,H. V. Jagadish 
+12596,2,13,Bingsheng He 
+13097,2,19,Juliana Freire 
+16202,2,11,Ion Stoica 
+17964,2,5,Val Tannen 
+18245,2,17,Yannis Papakonstantinou 
+22416,2,4,Zhiwei Zhang 
+25763,2,8,Cheng Long 
+28526,2,31,Samuel Madden 0001 
+28721,2,7,Cyrus Shahabi 
+31137,2,42,Beng Chin Ooi 
+32011,2,27,Xiaokui Xiao 
+36134,2,16,Jian Pei 
+37090,2,25,Lei Chen 0002 
+37367,2,2,Shuo Chen 
+40274,2,20,Yannis E. Ioannidis 
+43297,2,9,Bolin Ding 
+43649,2,12,Mourad Ouzzani 
+44724,2,22,Volker Markl 
+44975,2,37,Hector Garcia-Molina 
+45578,1,14,Guy M. Lohman 
+45946,2,19,Ihab F. Ilyas 
+46086,2,20,Hamid Pirahesh 
+52894,2,7,Yu Xu 
+57636,2,5,Francesco Bonchi 
+59658,2,26,Sourav S. Bhowmick 
+72468,2,32,Michael J. Franklin 
+79943,2,33,Jeffrey Xu Yu 
+85425,2,36,Guoliang Li 0001 
+86045,2,11,Ioana Manolescu 
+88230,2,8,S. Muthukrishnan 0001 
+91168,2,7,Jun'ichi Tatemura 
+91271,2,29,Raghu Ramakrishnan 0001 
+91396,2,57,Divesh Srivastava 
+91397,2,14,S. Sudarshan 0001 
+91493,2,38,Jeffrey F. Naughton 
+96185,2,3,Chun Zhang 
+100538,2,3,Pengfei Zhang 
+109337,2,10,Sharad Mehrotra 
+111238,2,15,Raymond Chi-Wing Wong 
+126741,2,16,Serge Abiteboul 
+130176,2,6,Hong Cheng 0001 
+144254,2,6,Jianzhong Li 0001 
+145278,2,30,Joseph M. Hellerstein 
+146188,1,22,Minos N. Garofalakis 
+152508,2,28,Xuemin Lin 0001 
+152548,2,24,Ke Yi 0001 
+153077,2,6,Jian Li 0015 
+153166,2,16,Graham Cormode 
+153870,2,8,Junhao Gan 
+153928,2,27,Gautam Das 0001 
+154355,1,26,Yufei Tao 0001 
+159562,2,24,Christos Faloutsos 
+160290,2,10,Lise Getoor 
+160767,2,12,Zhifeng Bao 
+161725,2,18,Sihem Amer-Yahia 
+161908,2,5,Chi Wang 0001 
+162195,2,9,Ashraf Aboulnaga 
+162437,2,9,K. Seluk Candan 
+164051,2,23,Gao Cong 
+164709,2,4,Dongqing Yang 
+190378,1,3,Shuai Ma 0001 
+191008,2,4,Yannis Katsis 
+213932,2,24,Bin Cui 0001 
+214397,2,30,Kian-Lee Tan 
+214534,2,11,Jianhua Feng 
+214782,1,7,Panos Kalnis 
+215046,1,33,Nick Koudas 
+215497,2,8,Reynold Cheng 
+215825,2,25,Divyakant Agrawal 
+216227,1,3,Dongxiang Zhang 
+224259,1,6,Qiong Luo 0001 
+233185,1,2,Wang-Pin Hsiung 
+233948,2,3,Oliver Po 
+236313,2,14,Jeffrey D. Ullman 
+236314,2,24,Jennifer Widom 
+241262,2,10,Zhenjie Zhang 
+242848,2,6,Yuanyuan Tian 
+254400,2,34,Dan Suciu 
+254612,1,18,Alin Deutsch 
+254672,2,24,Wenfei Fan 
+254857,2,4,Bogdan Cautis 
+269932,2,6,Ju Fan 
+270485,2,5,Xiaohui Yu 0001 
+270486,2,6,Calisto Zuzarte 
+270509,1,9,Rajeev Motwani 0001 
+270607,2,11,Eric Lo 0001 
+270911,2,9,Theodoros Rekatsinas 
+270912,1,17,Amol Deshpande 
+270913,2,14,Aditya G. Parameswaran 
+270969,1,20,Rajeev Rastogi 
+271124,1,18,Dimitris Papadias 
+271200,2,20,Anthony K. H. Tung 
+271295,2,6,Michalis Petropoulos 
+271999,1,8,Ada Wai-Chee Fu 
+272648,2,11,James Cheng 
+273399,2,7,Hakan Hacigms 
+273416,2,11,Xin Luna Dong 
+273532,2,8,Vasilis Vassalos 
+273946,2,3,John McPherson 
+274175,1,4,Cecilia M. Procopiuc 
+274526,2,9,Marianne Winslett 
+274868,2,19,Neoklis Polyzotis 
+275174,2,6,Jun Rao 
+275645,1,4,Wen-Syan Li 
+275652,2,15,Lu Qin 0001 
+275665,2,9,Yin Yang 0001 
+275671,2,8,Philip Bohannon 
+276308,2,29,Johannes Gehrke 
+276495,2,12,Nan Tang 0001 
+276507,2,7,Yuchen Li 0001 
+278483,2,7,Sibo Wang 0001 
+278802,2,29,Feifei Li 0001 
+279092,1,7,Zechao Shang 
+279280,2,33,David J. DeWitt 
+279633,1,10,Chee Yong Chan 
+280332,1,13,Raghav Kaushik 
+280333,2,8,Arvind Arasu 
+345692,2,9,Sanjay Krishnan 
+489179,2,4,Kaiyu Feng 
+491080,2,16,Jiannan Wang 0001 
+491190,2,57,Surajit Chaudhuri 
+491196,2,9,Meihui Zhang 0001 
+491254,2,2,Zitong Chen 
+491295,2,4,Wenyuan Yu 
+491414,2,11,Nicolas Bruno 
+491481,2,2,Svetlozar Nestorov 
+491600,2,25,Vivek R. Narasayya 
+491635,2,7,Venkatesh Ganti 
+491825,2,14,Kaushik Chakrabarti 
+491873,2,11,Aaron J. Elmore 
+491921,1,7,Marios Hadjieleftheriou 
+492266,2,2,Mingxi Wu 
+492708,1,7,Silu Huang 
+492786,2,4,Shixuan Sun 
+492891,2,2,Stamatis Zampetakis 
+494393,2,5,Miao Qiao 
+830246,2,4,Robert Christensen 
+830459,1,3,Minhao Jiang 
+831605,2,2,Mayank Bawa 
+834521,2,5,Kris Ganjam 
+1281780,2,2,Liqi Xu 
+1281817,1,4,Jun Zhang 0063 
