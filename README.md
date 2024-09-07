@@ -39,7 +39,7 @@ compile.sh
 1 5000 500
 ```
 
-Codes in `/insertion+_and_removal/` is similar to codes in `/insertion_and_removal/`.
+Codes in `/insertion+_and_removal/` are similar to codes in `/insertion_and_removal/`.
 
 
 
